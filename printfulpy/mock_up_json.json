@@ -1,8 +1,228 @@
 {
-    "code": 401,
-    "error": {
-        "message": "Unauthorized",
-        "reason": "Unauthorized"
-    },
-    "result": "Unauthorized"
+    "code": 200,
+    "extra": [],
+    "result": {
+        "mockups": [
+            {
+                "extra": [
+                    {
+                        "option": "Front",
+                        "option_group": "Flat",
+                        "title": "Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/1264_front.jpg"
+                    },
+                    {
+                        "option": "Front",
+                        "option_group": "Women's 4",
+                        "title": "Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/19516_front.jpg"
+                    },
+                    {
+                        "option": "Right Front",
+                        "option_group": "Men's 2",
+                        "title": "Right Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/22351_front.jpg"
+                    },
+                    {
+                        "option": "Left Front",
+                        "option_group": "Men's 2",
+                        "title": "Left Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/22201_front.jpg"
+                    },
+                    {
+                        "option": "Front",
+                        "option_group": "Men's 2",
+                        "title": "Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/21901_front.jpg"
+                    },
+                    {
+                        "option": "Right Front",
+                        "option_group": "Women's 3",
+                        "title": "Right Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/21751_front.jpg"
+                    },
+                    {
+                        "option": "Left Front",
+                        "option_group": "Women's 3",
+                        "title": "Left Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/21651_front.jpg"
+                    },
+                    {
+                        "option": "Front",
+                        "option_group": "Women's 3",
+                        "title": "Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/21501_front.jpg"
+                    },
+                    {
+                        "option": "Front",
+                        "option_group": "Women's Lifestyle 3",
+                        "title": "Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/21401_front.jpg"
+                    },
+                    {
+                        "option": "Front",
+                        "option_group": "Women's Lifestyle 2",
+                        "title": "Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/9589_front.jpg"
+                    },
+                    {
+                        "option": "Front",
+                        "option_group": "Wrinkled",
+                        "title": "Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/2780_front.jpg"
+                    },
+                    {
+                        "option": "Front",
+                        "option_group": "Women's Lifestyle",
+                        "title": "Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/9417_front.jpg"
+                    },
+                    {
+                        "option": "Front",
+                        "option_group": "Flat Lifestyle",
+                        "title": "Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/9131_front.jpg"
+                    },
+                    {
+                        "option": "Front",
+                        "option_group": "Men's Lifestyle 3",
+                        "title": "Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/8697_front.jpg"
+                    },
+                    {
+                        "option": "Front",
+                        "option_group": "Men's Lifestyle 2",
+                        "title": "Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/8525_front.jpg"
+                    },
+                    {
+                        "option": "Front",
+                        "option_group": "Women's 2",
+                        "title": "Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/8164_front.jpg"
+                    },
+                    {
+                        "option": "Front",
+                        "option_group": "Men's Lifestyle",
+                        "title": "Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/7812_front.jpg"
+                    },
+                    {
+                        "option": "Front",
+                        "option_group": "Couple's",
+                        "title": "Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/7726_front.jpg"
+                    },
+                    {
+                        "option": "Front",
+                        "option_group": "Women's",
+                        "title": "Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/4309_front.jpg"
+                    },
+                    {
+                        "option": "Front",
+                        "option_group": "On Hanger",
+                        "title": "Front",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/22802_front.jpg"
+                    }
+                ],
+                "mockup_url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/4303_front.jpg",
+                "placement": "front",
+                "variant_ids": [
+                    4012,
+                    4013
+                ]
+            },
+            {
+                "extra": [
+                    {
+                        "option": "Back",
+                        "option_group": "Flat",
+                        "title": "Back",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/1284_back.jpg"
+                    },
+                    {
+                        "option": "Back",
+                        "option_group": "Wrinkled",
+                        "title": "Back",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/2800_back.jpg"
+                    },
+                    {
+                        "option": "Back",
+                        "option_group": "Women's",
+                        "title": "Back",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/4310_back.jpg"
+                    },
+                    {
+                        "option": "Back",
+                        "option_group": "Men's Lifestyle",
+                        "title": "Back",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/7855_back.jpg"
+                    },
+                    {
+                        "option": "Back",
+                        "option_group": "Women's 2",
+                        "title": "Back",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/8165_back.jpg"
+                    },
+                    {
+                        "option": "Back",
+                        "option_group": "Men's Lifestyle 2",
+                        "title": "Back",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/8526_back.jpg"
+                    },
+                    {
+                        "option": "Back",
+                        "option_group": "Men's Lifestyle 3",
+                        "title": "Back",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/8698_back.jpg"
+                    },
+                    {
+                        "option": "Back",
+                        "option_group": "Women's Lifestyle",
+                        "title": "Back",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/9418_back.jpg"
+                    },
+                    {
+                        "option": "Back",
+                        "option_group": "Women's Lifestyle 2",
+                        "title": "Back",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/9590_back.jpg"
+                    },
+                    {
+                        "option": "Back",
+                        "option_group": "Women's 4",
+                        "title": "Back",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/19566_back.jpg"
+                    },
+                    {
+                        "option": "Back",
+                        "option_group": "Women's 3",
+                        "title": "Back",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/21551_back.jpg"
+                    },
+                    {
+                        "option": "Back",
+                        "option_group": "Men's 2",
+                        "title": "Back",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/22001_back.jpg"
+                    },
+                    {
+                        "option": "Back",
+                        "option_group": "On Hanger",
+                        "title": "Back",
+                        "url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/22852_back.jpg"
+                    }
+                ],
+                "mockup_url": "https://printful-upload.s3.us-west-1.amazonaws.com/mockups/20200102/zc84820eb86ca70899c3d006e19249c4/4304_back.jpg",
+                "placement": "back",
+                "variant_ids": [
+                    4012,
+                    4013
+                ]
+            }
+        ],
+        "status": "completed",
+        "task_key": "zc84820eb86ca70899c3d006e19249c4"
+    }
 }

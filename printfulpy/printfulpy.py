@@ -3,14 +3,19 @@
 
 # 8naldv9l-3gyz-cl2g:yv7r-pwgnxg8e5bjr
 
-import requests
-import wget
+# Standard Libraries
+from base64 import standard_b64encode
 import json
 
+# Third Party Libraries
+import requests
+import wget
+
+
 # Create async requests
-import asyncio
-import aiofiles
-import aiohttp
+# import asyncio
+# import aiofiles
+# import aiohttp
 
 
 class PrintfulPy():
@@ -21,7 +26,12 @@ class PrintfulPy():
             raise Exception("No Client id inserted")
 
         self.root_url = "https://api.printful.com/"
-        self.api_key = api_key
+        self.key = bytearray(api_key, 'utf-8')
+        self.headers = {'Content-Type': 'application/json',
+                        'Authorization': "Basic {0}".format(self._auth())}
+
+    def _auth(self):
+        return standard_b64encode(self.key).decode('ascii')
 
     def get_list_of_orders(self, status=None, offset=None, limit=100):
 
@@ -41,7 +51,7 @@ class PrintfulPy():
 
         data = {
             "status": str(status),
-            "offset": str(integer),
+            "offset": str(offset),
             "limit": str(limit)
         }
 
@@ -180,10 +190,11 @@ class PrintfulPy():
         """
 
         # The Url for generating a task
-        url = self.root_url + "/mockup-generator/create-task/" + str(product_id)
+        url = self.root_url + "mockup-generator/create-task/" + str(product_id)
+        print(url)
 
         data = {
-            "variant_ids": str(variant_ids),
+            "variant_ids": variant_ids,
             "format": format,
             "files": [
                 {
@@ -213,14 +224,45 @@ class PrintfulPy():
             ]
         }
 
-        r = requests.post(url, params=data)
+        print(data)
+        print(self.headers)
+
+        r = requests.post(url, data=json.dumps(data), headers=self.headers)
         raw_json = r.json()
+        return raw_json
+    
+    def get_mockup_gen_task_result(self, task_key):
+
+        """Check the status of the task
+
+        Args:
+            task_key (string): The task key from creating a mockup to see the status of the url
+
+        Return:
+            raw_json (dict):
+
+        """
+
+        url = self.root_url + "mockup-generator/task"
+
+        print(url)
+
+        data = {
+            "task_key": task_key
+        }
+
+        r = requests.get(url, params=data, headers=self.headers)
+        raw_json = r.json()
+        print(raw_json)
         return raw_json
 
 
 if __name__ == "__main__":
 
     client = PrintfulPy(api_key="8naldv9l-3gyz-cl2g:yv7r-pwgnxg8e5bjr")
-    raw_json = client.create_mockup_gen_task(variant_ids=[4012, 4013], image_url="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi6sbChjt3mAhWUsJ4KHVMpBKMQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.amazon.com%2FPeppermint-Tiffany-Young%2Fdp%2FB07KLYJ31F&psig=AOvVaw0qf5u2h1CHaqfrAfKh8Yle&ust=1577786331733378")
+    # raw_json = client.create_mockup_gen_task(variant_ids=[4012, 4013], image_url="http://cute-n-tiny.com/wp-content/uploads/2010/12/cute-baby-gentoo-penguin-400x266.jpg")
+    # with open("mock_up_json.json", "w") as data_file:
+    #     json.dump(raw_json, data_file, indent=4, sort_keys=True)
+    raw_json = client.get_mockup_gen_task_result("zc84820eb86ca70899c3d006e19249c4")
     with open("mock_up_json.json", "w") as data_file:
         json.dump(raw_json, data_file, indent=4, sort_keys=True)
