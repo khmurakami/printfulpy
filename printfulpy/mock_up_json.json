@@ -1,0 +1,8 @@
+{
+    "code": 401,
+    "error": {
+        "message": "Unauthorized",
+        "reason": "Unauthorized"
+    },
+    "result": "Unauthorized"
+}
