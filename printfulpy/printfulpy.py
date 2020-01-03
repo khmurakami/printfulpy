@@ -239,7 +239,7 @@ class PrintfulPy():
             task_key (string): The task key from creating a mockup to see the status of the url
 
         Return:
-            raw_json (dict):
+            raw_json (dict): The raw output of the json
 
         """
 
