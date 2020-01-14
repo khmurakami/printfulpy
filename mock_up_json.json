@@ -1,0 +1,8 @@
+{
+    "code": 400,
+    "error": {
+        "message": "Invalid URL",
+        "reason": "BadRequest"
+    },
+    "result": "Invalid URL"
+}

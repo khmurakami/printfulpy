@@ -59,7 +59,6 @@ class PrintfulPy():
         raw_json = r.json()
         return raw_json
 
-    # https://www.mapillary.com/developer/api-documentation/#pagination
     def get_product_list(self):
 
         """Get all of the printful products. (Not yours)
@@ -256,6 +255,98 @@ class PrintfulPy():
         print(raw_json)
         return raw_json
 
+    def get_list_sync_products(self, status=None, search=None, offset=None, limit=10):
+
+        """Get a list of Sync Products
+
+        Args:
+            status (String): Filter items by status. "synced", "unsynced", "all"
+            search (String): Product search needle
+            offset (integer): Result set offset
+            limit (integer): Number of items per page (max 100)
+
+        Return:
+            raw_json (dict): The raw output of the json
+
+        """
+
+        url = self.root_url + "store/products"
+
+        print(url)
+
+        data = {
+            "status": status,
+            "search": search,
+            "offset": offset,
+            "limit": limit
+        }
+
+        r = requests.get(url, params=data, headers=self.headers)
+        raw_json = r.json()
+        print(raw_json)
+        return raw_json
+
+    def get_list_of_files(self, status=None, offset=None, limit=10):
+
+        """Get of your files that you uploaded to the file libarry
+
+        Args:
+            status (String): Filter items by file status
+            offset (integer): Result set offset
+            limit (integer): Number of items per page (max 100)
+
+        Return:
+            raw_json (dict): The raw output of the json
+
+        """
+
+        url = self.root_url + "files"
+
+        print(url)
+
+        data = {
+            "status": status,
+            "offset": offset,
+            "limit": limit
+        }
+
+        r = requests.get(url, params=data, headers=self.headers)
+        raw_json = r.json()
+        print(raw_json)
+        return raw_json
+
+    # def create_new_sync_product(self, product_name="Test", variant_id=4012, retail_price=25.0, file_url):
+
+    #     pass
+
+    def get_layout_templates(self, product_id, orientation=None, technique=None):
+
+        """Get of your files that you uploaded to the file libarry
+
+        Args:
+            status (String): Filter items by file status
+            offset (integer): Result set offset
+            limit (integer): Number of items per page (max 100)
+
+        Return:
+            raw_json (dict): The raw output of the json
+
+        """
+
+        url = self.root_url + "mockup-generator/templates/{0}".format(product_id)
+
+        print(url)
+
+        data = {
+            "status": product_id,
+            "orientation": orientation,
+            "technique": technique
+        }
+
+        r = requests.get(url, params=data, headers=self.headers)
+        raw_json = r.json()
+        print(raw_json)
+        return raw_json
 
 if __name__ == "__main__":
 
@@ -263,6 +354,12 @@ if __name__ == "__main__":
     # raw_json = client.create_mockup_gen_task(variant_ids=[4012, 4013], image_url="http://cute-n-tiny.com/wp-content/uploads/2010/12/cute-baby-gentoo-penguin-400x266.jpg")
     # with open("mock_up_json.json", "w") as data_file:
     #     json.dump(raw_json, data_file, indent=4, sort_keys=True)
-    raw_json = client.get_mockup_gen_task_result("zc84820eb86ca70899c3d006e19249c4")
+    # raw_json = client.get_mockup_gen_task_result("zc84820eb86ca70899c3d006e19249c4")
+    # with open("mock_up_json.json", "w") as data_file:
+    #     json.dump(raw_json, data_file, indent=4, sort_keys=True)
+
+    raw_json = client.get_product_list()
     with open("mock_up_json.json", "w") as data_file:
         json.dump(raw_json, data_file, indent=4, sort_keys=True)
+
+
