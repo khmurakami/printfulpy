@@ -255,7 +255,7 @@ class PrintfulPy():
         print(raw_json)
         return raw_json
 
-    def get_list_sync_products(self, status=None, search=None, offset=None, limit=10):
+    def get_list_sync_products(self, status="all", search=None, offset=None, limit=100):
 
         """Get a list of Sync Products
 
@@ -315,10 +315,6 @@ class PrintfulPy():
         print(raw_json)
         return raw_json
 
-    # def create_new_sync_product(self, product_name="Test", variant_id=4012, retail_price=25.0, file_url):
-
-    #     pass
-
     def get_layout_templates(self, product_id, orientation=None, technique=None):
 
         """Get of your files that you uploaded to the file libarry
@@ -348,18 +344,124 @@ class PrintfulPy():
         print(raw_json)
         return raw_json
 
+    def get_product_variant_printfiles(self, product_id, orientation=None, technique=None):
+
+        """Retrieve product variant printfiles
+
+        Args:
+            product_id (String): Product ID
+            orientation (String): 
+            technique (String):
+
+        Return:
+            raw_json (dict):
+
+        """
+
+        url = self.root_url + "mockup-generator/printfiles/{0}".format(product_id)
+
+        print(url)
+
+        data = {
+            "product_id": product_id,
+            "orientation": orientation,
+            "technique": technique
+        }
+
+        r = requests.get(url, params=data, headers=self.headers)
+        raw_json = r.json()
+        print(raw_json)
+        return raw_json
+
+    def upload_new_file(self, image_url):
+
+        # The Url for generating a task
+        url = self.root_url + "files"
+        print(url)
+
+        data = {
+            "type": "preview",
+            "url": image_url,
+            "filename": "parrot_water_color_test_1.png"
+        }
+
+        print(data)
+        print(self.headers)
+
+        r = requests.post(url, data=json.dumps(data), headers=self.headers)
+        raw_json = r.json()
+        return raw_json
+
+    def create_new_sync_product(self, product_name="example_tshirt", variant_id=4012, retail_price=25.0, file_url=None):
+
+        """Create a new product in your store
+
+        Args:
+            product_name (String): The name of the product
+            variant_id (int): The product you are trying to create
+            retail_price (float): The price you are trying to price it at
+            file_url (String): The path to which to png file is located 
+
+        """
+
+        # The Url for generating a task
+        url = self.root_url + "store/products"
+        print(url)
+
+        data = {
+                "sync_product":{
+                    "name": "test"
+                },
+                "sync_variants":[
+                    {
+                        "variant_id": variant_id,
+                        "files":[
+                            {
+                                "url": file_url
+                            }
+                        ],
+                    }
+                ]
+            }
+
+        print(data)
+        print(self.headers)
+
+        r = requests.post(url, data=json.dumps(data), headers=self.headers)
+        raw_json = r.json()
+        return raw_json
+
+
 if __name__ == "__main__":
 
     client = PrintfulPy(api_key="8naldv9l-3gyz-cl2g:yv7r-pwgnxg8e5bjr")
-    # raw_json = client.create_mockup_gen_task(variant_ids=[4012, 4013], image_url="http://cute-n-tiny.com/wp-content/uploads/2010/12/cute-baby-gentoo-penguin-400x266.jpg")
-    # with open("mock_up_json.json", "w") as data_file:
-    #     json.dump(raw_json, data_file, indent=4, sort_keys=True)
-    # raw_json = client.get_mockup_gen_task_result("zc84820eb86ca70899c3d006e19249c4")
+    # raw_json = client.create_mockup_gen_task(variant_ids=[4012], image_url="https://firebasestorage.googleapis.com/v0/b/tshirtai.appspot.com/o/temp.jpg?alt=media&token=83b0cbaa-9bd3-44db-8bcf-e31feefe3b98")
     # with open("mock_up_json.json", "w") as data_file:
     #     json.dump(raw_json, data_file, indent=4, sort_keys=True)
 
-    raw_json = client.get_product_list()
-    with open("mock_up_json.json", "w") as data_file:
+    # raw_json = client.get_mockup_gen_task_result("z5400ae1e4db7a924c7901254c7143e4")
+    # with open("mock_up_result_json", "w") as data_file:
+    #     json.dump(raw_json, data_file, indent=4, sort_keys=True)
+
+    # raw_json = client.get_product_list()
+    # with open("mock_up_json.json", "w") as data_file:
+    #     json.dump(raw_json, data_file, indent=4, sort_keys=True)
+
+    # raw_json = client.get_product_variant_printfiles(71)
+    # with open("printfiles.json", "w") as data_file:
+    #     json.dump(raw_json, data_file, indent=4, sort_keys=True)
+
+    # raw_json = client.get_list_sync_products()
+    # with open("sync_products.json", "w") as data_file:
+    #     json.dump(raw_json, data_file, indent=4, sort_keys=True)
+
+    google_download_link = "https://storage.googleapis.com/tshirt_pictures/parrot_water_color_test_1.png"
+    # raw_json = client.upload_new_file(google_download_link)
+    # with open("upload_file.json", "w") as data_file:
+    #     json.dump(raw_json, data_file, indent=4, sort_keys=True)
+
+    raw_json = client.create_new_sync_product(file_url=google_download_link)
+    with open("create_sync_product.json", "w") as data_file:
         json.dump(raw_json, data_file, indent=4, sort_keys=True)
 
 

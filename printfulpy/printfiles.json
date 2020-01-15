@@ -1,0 +1,3598 @@
+{
+    "code": 200,
+    "extra": [],
+    "result": {
+        "available_placements": {
+            "back": "Back print",
+            "front": "Front print",
+            "label_inside": "Inside label",
+            "label_outside": "Outside label",
+            "sleeve_left": "Left sleeve",
+            "sleeve_right": "Right sleeve"
+        },
+        "option_groups": [
+            "Couple's",
+            "Flat",
+            "Flat Lifestyle",
+            "Men's",
+            "Men's 2",
+            "Men's Lifestyle",
+            "Men's Lifestyle 2",
+            "Men's Lifestyle 3",
+            "On Hanger",
+            "Women's",
+            "Women's 2",
+            "Women's 3",
+            "Women's 4",
+            "Women's Lifestyle",
+            "Women's Lifestyle 2",
+            "Women's Lifestyle 3",
+            "Wrinkled"
+        ],
+        "options": [
+            "Back",
+            "Front",
+            "Left",
+            "Left Front",
+            "Right",
+            "Right Front"
+        ],
+        "printfiles": [
+            {
+                "can_rotate": false,
+                "dpi": 150,
+                "fill_mode": "fit",
+                "height": 2400,
+                "printfile_id": 1,
+                "width": 1800
+            },
+            {
+                "can_rotate": false,
+                "dpi": 150,
+                "fill_mode": "fit",
+                "height": 450,
+                "printfile_id": 71,
+                "width": 450
+            },
+            {
+                "can_rotate": false,
+                "dpi": 150,
+                "fill_mode": "fit",
+                "height": 450,
+                "printfile_id": 90,
+                "width": 450
+            },
+            {
+                "can_rotate": false,
+                "dpi": 150,
+                "fill_mode": "fit",
+                "height": 525,
+                "printfile_id": 130,
+                "width": 600
+            }
+        ],
+        "product_id": 71,
+        "variant_printfiles": [
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9526
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4011
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4012
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4013
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4014
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4015
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5294
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5309
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9527
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4016
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4017
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4018
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4019
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4020
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5295
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5310
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4046
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4047
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4048
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4049
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4050
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9575
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8923
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8924
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8925
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8926
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8927
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8928
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8929
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8488
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8489
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8490
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8491
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8492
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8493
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8494
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9569
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8495
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8496
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8497
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8498
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8499
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8500
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8501
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8440
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8441
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8442
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8443
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8444
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8445
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8446
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4121
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4122
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4123
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4124
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4125
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4031
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4032
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4033
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4034
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4035
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5297
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5312
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9546
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4111
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4112
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4113
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4114
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4115
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8451
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8452
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8453
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8454
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8455
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8456
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8457
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9564
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8460
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8461
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8462
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8463
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8464
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8465
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8466
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4091
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4092
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4093
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4094
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4095
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5301
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5316
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8481
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8482
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8483
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8484
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8485
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8486
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8487
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9740
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9741
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9742
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9743
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9744
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9745
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9746
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 6948
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 6949
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 6950
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 6951
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 6952
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 6953
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 6954
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4146
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4147
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4148
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4149
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4150
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4086
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4087
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4088
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4089
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4090
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5300
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5315
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9395
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9396
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9397
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9398
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9399
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9400
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9401
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4151
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4152
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4153
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4154
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4155
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5305
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5320
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4161
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4162
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4163
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4164
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4165
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5306
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5321
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9580
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9388
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9389
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9390
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9391
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9392
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9393
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9394
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4026
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4027
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4028
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4029
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4030
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10360
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10361
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10362
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10363
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10364
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9579
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9381
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9382
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9383
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9384
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9385
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9386
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9387
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4171
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4172
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4173
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4174
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4175
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5307
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5322
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9543
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4096
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4097
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4098
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4099
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4100
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8474
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8475
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8476
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8477
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8478
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8479
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8480
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9577
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9367
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9368
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9369
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9370
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9371
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9372
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9373
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9576
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9360
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9361
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9362
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9363
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9364
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9365
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9366
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4116
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4117
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4118
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4119
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4120
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5302
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5317
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8447
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8448
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4021
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4022
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4023
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4024
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4025
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5296
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5311
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8502
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8503
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8504
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8505
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8506
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8507
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8508
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8516
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8517
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8518
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8519
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8520
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8521
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8522
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9534
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4051
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4052
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4053
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4054
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4055
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10384
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10385
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10386
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10387
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10388
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10352
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10353
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10354
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10355
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10356
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4181
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4182
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4183
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4184
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4185
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5308
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5323
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8530
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8531
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8532
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8533
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8534
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8535
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8536
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10376
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10377
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10378
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10379
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10380
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9578
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9374
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9375
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9376
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9377
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9378
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9379
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 9380
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4081
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4082
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4083
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4084
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4085
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5299
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5314
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4141
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4142
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4143
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4144
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4145
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5304
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5319
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4041
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4042
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4043
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4044
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4045
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5298
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5313
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4136
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4137
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4138
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4139
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 4140
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5303
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 5318
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10368
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10369
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10370
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10371
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 10372
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8523
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8524
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8525
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8526
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8527
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8528
+            },
+            {
+                "placements": {
+                    "back": 1,
+                    "front": 1,
+                    "label_inside": 71,
+                    "label_outside": 90,
+                    "sleeve_left": 130,
+                    "sleeve_right": 130
+                },
+                "variant_id": 8529
+            }
+        ]
+    }
+}

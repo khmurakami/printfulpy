@@ -1,0 +1,19 @@
+{
+    "code": 200,
+    "extra": [],
+    "paging": {
+        "limit": 100,
+        "offset": 0,
+        "total": 1
+    },
+    "result": [
+        {
+            "external_id": "5e02faf8d2abc3",
+            "id": 149433107,
+            "name": "Product template example",
+            "synced": 13,
+            "thumbnail_url": "https://files.cdn.printful.com/files/1c1/1c17c8756d3afe099705f8841ca852db_preview.png",
+            "variants": 13
+        }
+    ]
+}

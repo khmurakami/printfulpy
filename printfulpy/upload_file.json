@@ -1,0 +1,21 @@
+{
+    "code": 200,
+    "extra": [],
+    "result": {
+        "created": 1579046451,
+        "dpi": null,
+        "filename": "parrot_water_color_test_1.png",
+        "hash": null,
+        "height": null,
+        "id": 164221396,
+        "mime_type": null,
+        "preview_url": null,
+        "size": 0,
+        "status": "waiting",
+        "thumbnail_url": null,
+        "type": "preview",
+        "url": "https://storage.googleapis.com/tshirt_pictures/parrot_water_color_test_1.png",
+        "visible": true,
+        "width": null
+    }
+}
