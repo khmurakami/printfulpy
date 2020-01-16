@@ -373,7 +373,7 @@ class PrintfulPy():
         print(raw_json)
         return raw_json
 
-    def upload_new_file(self, image_url):
+    def upload_new_file(self, file_name, image_url):
 
         # The Url for generating a task
         url = self.root_url + "files"
@@ -382,7 +382,7 @@ class PrintfulPy():
         data = {
             "type": "preview",
             "url": image_url,
-            "filename": "parrot_water_color_test_1.png"
+            "filename": file_name
         }
 
         print(data)
@@ -410,7 +410,7 @@ class PrintfulPy():
 
         data = {
                 "sync_product":{
-                    "name": "test"
+                    "name": product_name
                 },
                 "sync_variants":[
                     {
