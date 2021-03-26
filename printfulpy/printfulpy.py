@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# 8naldv9l-3gyz-cl2g:yv7r-pwgnxg8e5bjr
 
 # Standard Libraries
 from base64 import standard_b64encode
